@@ -31,11 +31,10 @@
 #### Well done
 - &#9989; I passed my exam. Well done!
 
-She gets undressed and gets into bed.
-She turns off the light and falls asleep.
-
-It’s getting dark.
-
+#### get
+- She gets undressed and gets into bed.
+- She turns off the light and falls asleep.
+- It’s getting dark.
 
 
 #### do make
@@ -43,5 +42,14 @@ It’s getting dark.
 - &#10060; After school, students make homework
 
 #### put on
-Don’t forget to put a stamp on the envelope.
+- Don’t forget to put a stamp on the envelope.
 
+#### take
+Can I take a message?
+Ramesh takes a lot of selfies and posts them online.
+
+#### try get
+Can I try this shirt on?
+Have you got a bigger?
+No, I’m sorry. That’s the only one.
+How would you like your steak - rare, medium or well-done?
