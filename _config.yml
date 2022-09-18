@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+relative_links:
+  enabled: true
+  collections: true
+include:
+  ba.md
+  basic/index.md
+  basic/other.md
