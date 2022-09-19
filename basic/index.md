@@ -60,5 +60,9 @@ I often have friends to dinner.
 Grandpa likes to have a sleep after lunch.
 
 
+#### get
+You can get a bus here.
 
+####  keep off
+Please keep off the grass.
 
