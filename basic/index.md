@@ -15,7 +15,7 @@
 - &#9989; My father had a heart attack.
 - &#10060; My father got a heart attack.
 
-#### about for
+#### about / for
 - &#9989; I am very happy about your news
 - &#10060; I’m very happy for your news
 
@@ -37,7 +37,7 @@
 - It’s getting dark.
 
 
-#### do make
+#### do / make
 - &#9989; After school, students do homework
 - &#10060; After school, students make homework
 
@@ -48,8 +48,17 @@
 Can I take a message?
 Ramesh takes a lot of selfies and posts them online.
 
-#### try get
+#### try / get
 Can I try this shirt on?
 Have you got a bigger?
 No, I’m sorry. That’s the only one.
 How would you like your steak - rare, medium or well-done?
+
+#### have
+We sometimes have friends round.
+I often have friends to dinner.
+Grandpa likes to have a sleep after lunch.
+
+
+
+
