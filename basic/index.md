@@ -141,7 +141,13 @@ We’ve got ten minutes before the train goes.
 
 
 
-#### 
+#### usually / used to
+
+
+- &#9989; We say I usually get up at 8 o’clock, but today I got up at 8.30.
+- &#10060; I used to get up at 8 o’clock.
+
+
 #### 
 #### 
 #### 
