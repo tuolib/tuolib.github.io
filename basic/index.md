@@ -148,9 +148,19 @@ We’ve got ten minutes before the train goes.
 - &#10060; I used to get up at 8 o’clock.
 
 
+#### Frequency adverbs
+
+![image](./frequency_words.png)
+
 #### 
-#### 
-#### 
+- &#9989; How awful! / How horrible!
+- &#10060; How bad!
+
+#### about / for
+- &#9989; She’s a lovely person and I’m really happy about her success.
+- &#10060; I’m really happy for her success.
+
+
 #### 
 #### 
 #### 
