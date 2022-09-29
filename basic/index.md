@@ -1,11 +1,11 @@
 ## 22 Sep, 2022 what I don't know
 
-- [words I don't know](./I_don_not_know.md)
+- link: [words I don't know](./I_don_not_know.md)
 
 
 ## 29 Sep, 2022
 
-- [movie](./notting_hill.md)
+- link: [movie](./notting_hill.md)
 
 
 ## mp4 example
@@ -18,6 +18,6 @@
 ## mp3 example
 
 <audio controls="controls">
-  <source type="audio/mp3" src="file_example_MP3.mp3"></source>
+  <source type="audio/mp3" src="./file_example_MP3.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
