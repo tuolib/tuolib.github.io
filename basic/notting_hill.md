@@ -223,6 +223,59 @@ My friend Max is cooking, and he is generally acknowledged to be the worst cook 
 
 ## 34:18
 
+He's brringing a girl?
+
+Miracles do happen.
+
+Does girl have a name?
+
+Don't know. Wouldn't say.
+
+Oh, Christ. What's going on in there?
+
+Come on in. Vague food crisis.
+
+Hiya. Sorry.
+
+The guinea-fowl is proving more complicated than expected.
+
+He's cooking guinea-fowl?
+
+Don't even ask.
+
+Good lord, you're the spitting image of ...
+
+Bella, this is Anna.
+
+Ok, crisis over.
+
+Have some wine.
+
+I'll get it.
+
+Red or white?
+
+Look, your brother's brought this girl.
+
+Hi, guys.
+
+She's my baby sister.
+
+This is one of those key moments in life...  when it's possible you can be really genuinely cool and I'm going to fail just a hundred percent. I absolutely, totally and utterly adore you. And I just think you are the most beautiful woman in the world. And more importantly, I genuinely believe, and I've believed for some time now, that we could be best friends. So what do you think? 
+
+Lucky me.
+
+Oh, you gave me a present. We're best friends already then. Marry Will. He's a really nice guy. Then we can be sisters. Well, I'll think about it.
+
+That'll be Bernie.
+
+Hi. Sorry I'm late. Bollocksed up at work again, I fear. Millions down the drain. 
+
+Well done.
+
+Bernie, this is Anna. 
+
+Hillo, Anna. Delighted to meet you.
 
 
 ## 37:00
