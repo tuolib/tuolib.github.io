@@ -419,6 +419,82 @@ My friend Max is cooking, and he is generally acknowledged to be the worst cook 
 
 
 
+### 37:00
+
+It's a hat. You don't have to wear it or anything. 
+
+You haven't slept with her, have you?
+
+That is a cheap question, and the answer is, of course, no comment.
+
+No comment means "yes". 
+
+No, it doesn't.
+
+Do you ever masturbate?
+
+Definitely no comment.
+
+You see, it means "yes."
+
+Oh, my god.
+
+So, uh, tell me, um, Anna, what do you do?
+
+I'm an actress.
+
+Oh, splendid.
+
+What do you do?
+
+I'm actually in the stock market myself, so, not really similar fields. Though, I have done the odd bit of amateur stuff. P.G. Wodehouse. Farce, all that, you know. "Careful there, Vicar." Always imagined it's a pretty tough job, though, acting. The wages are a scandal, aren't they? 
+
+They can be.
+
+I see friends from university, clever chaps. Been in the business longer than you. They're scraping by on seven, eight thousand a year. You know, it's no life. What sort of acting do you do?
+
+Films, mainly.
+
+Splendid. Well done. How's the pay in movies? I mean, last film you did, what did you get paid?
+
+Fifteen million dollars.
+
+Right. So that's well, fairly good.
+
+Right, I think we're ready.
+
+Bella, can you tell me where I can find...
+
+Sorry. It's down the corridor on the right.
+
+I'll show you.
+
+Quickly, quickly. Talk very, very quickly. What are you doing here with Anna Scott?
+
+Anna Scott? Yes. Shut up.
+
+What did you say to her?
+
+I don't believe it. I actually walked into the loo with her. I was still chatting when she started unbuttoning her jeans. She had to ask me to leave.
+
+So you knew who she was?
+
+Of course I did, but he didn't.
+
+Not instantly, but I got away with it.
+
+What do you think of the guinea-fowl?
+
+I'm a vegetarian.
+
+So, how's the guinea-fowl?
+
+Best guinea-fowl I've ever tasted.
+
+
+### 39:40
+
+Having you here, Anna, firmly establishes what I've long suspected that we really are the most desperate lot of underachievers.
 
 
 
