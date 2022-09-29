@@ -122,21 +122,22 @@ proxies:
     #   custom: value
 
 # VMess
-- name: "v2ray-ge2"
+- name: "v2ray-korean"
   type: vmess
-  server: 45.77.240.89
-  port: 34774
-  uuid: 6514c91e-ea78-4395-ae97-2e4f24a2aa82
+  server: k.dog123456.ml
+  port: 443
+  uuid: e38c64e7-d40f-4f8a-9594-daac594d11da
   alterId: 0
-  cipher: aes-128-gcm
+  cipher: auto
   udp: true
-  # tls: true
+  tls: true
   # tls-hostname: 填写伪装域名
   # skip-cert-verify: true
-  network: kcp
-  # ws-path: /fmgbvws
-  # ws-headers: #这一行后面不要写东西
-  #   Host: v2ray.com #填写伪装域名
+  network: ws
+  ws-opts: 
+    path: /hv9b8QRi/
+    headers: #这一行后面不要写东西
+      Host: k.dog123456.ml #填写伪装域名
 
 
 # Trojan
@@ -163,7 +164,7 @@ proxy-groups:
 #    - "ss"
 #    - "ss-obfs"
 #    - "ss-v2ray"
-    - "v2ray-ge2"
+    - "v2ray-korean"
     - "Trojan-horse"
 #    - "trojan"
   url: 'http://www.gstatic.com/generate_204'
@@ -199,7 +200,7 @@ proxy-groups:
 #    - "ss"
 #    - "ss-obfs"
 #    - "ss-v2ray"
-    - "v2ray-ge2"
+    - "v2ray-korean"
     - "Trojan-horse"
 #    - "trojan"
 
@@ -225,7 +226,7 @@ proxy-groups:
 #    - "ss"
 #    - "ss-obfs"
 #    - "ss-v2ray"
-    - "v2ray-ge2"
+    - "v2ray-korean"
     - "Trojan-horse"
 #    - "trojan"
 # 大陆流媒体面向港澳台限定服务
@@ -236,7 +237,7 @@ proxy-groups:
 #    - "ss"
 #    - "ss-obfs"
 #    - "ss-v2ray"
-    - "v2ray-ge2"
+    - "v2ray-korean"
     - "Trojan-horse"
 #    - "trojan"
 
