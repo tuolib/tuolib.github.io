@@ -1,11 +1,42 @@
-## 22 Sep, 2022 what I don't know
+## 30 Sep, 2022
 
-- link: [words I don't know](./I_don_not_know.md)
+- link: [30 Sep](./09_30.md)
 
 
 ## 29 Sep, 2022
 
-- link: [movie](./notting_hill.md)
+- link: [29 Sep](./09_29.md)
+
+
+## 28 Sep, 2022
+
+- link: [28 Sep](./09_28.md)
+
+
+## 22 Sep, 2022
+
+- link: [22 Sep](./09_22.md)
+
+
+## 21 Sep, 2022
+
+- link: [21 Sep](./09_21.md)
+
+
+## 20 Sep, 2022
+
+- link: [20 Sep](./09_20.md)
+
+
+## 19 Sep, 2022
+
+- link: [19 Sep](./09_19.md)
+
+
+## 18 Sep, 2022
+
+- link: [09_18](./09_18.md)
+
 
 
 ## mp4 example
